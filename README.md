@@ -1,9 +1,9 @@
-# RATING TOURNIQUET FOR LICHESS
+# Rating Tourniquet for Lichess
 
 Libraries requiring pip install:
 python-lichess
 
-# Rating Tourniquet for Lichess
+# Purpose and Functionalities
 ## Overview
 **Rating Tourniquet** is a Python-based application designed to help online chess players manage their rating effectively on the Lichess platform. The primary purpose of this app is to "stop rating bleeding," which refers to the phenomenon where players experience a decline in their ratings due to consistent losses over a period.
 ### What is Rating in Online Chess?
